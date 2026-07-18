@@ -1,0 +1,6 @@
+{
+  "name": "Spin Game Admin Dashboard",
+  "description": "Comprehensive administrative platform for managing spin games, users, agents, transactions, revenue, universal schedules, support, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
